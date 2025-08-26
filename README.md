@@ -70,8 +70,8 @@ Exemplos das etapas realizadas estão disponíveis na pasta [`/images`](./images
 ---
 
 ## 🔗 Recursos Úteis
-- [Explore Speech Studio - Microsoft Learn](https://learn.microsoft.com/training/modules/explore-azure-ai-speech/)  
-- [Analyze text with Language Studio - Microsoft Learn](https://learn.microsoft.com/training/modules/analyze-text-with-language-studio/)  
+- [Explore Speech Studio - Microsoft Learn](https://learn.microsoft.com/pt-br/azure/ai-services/speech-service/speech-studio-overview)  
+- [Analyze text with Language Studio - Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/analyze-text-ai-language/)  
 - [Guia de Markdown no GitHub](https://www.markdownguide.org/basic-syntax/)  
 
 ---
