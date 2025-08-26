@@ -29,8 +29,7 @@ O objetivo é praticar conceitos de **IA aplicada a voz e linguagem natural**, d
 - Abra a opção **Conversão de voz em texto em tempo real**. 
 - Selecione o idioma. 
 - Grave sua voz pelo microfone ou faça upload de um arquivo de áudio.  
-- Aguarde a transcrição automática em tempo real e salve o resultado.  
-- Capture telas do painel e salve na pasta `/images`.  
+- Aguarde a transcrição automática em tempo real e salve o resultado.   
 - Use o Speech to Text (STT) para:  
   - Transcrição de reuniões e aulas;  
   - Análise de chamadas;  
@@ -46,8 +45,7 @@ O objetivo é praticar conceitos de **IA aplicada a voz e linguagem natural**, d
   - **Mineração de Opiniões** – entenda pontos fortes e fracos de uma avaliação.  
   - **Classificação de Texto** – organize informações em categorias.  
 - Insira um texto de exemplo no painel.  
-- Analise os resultados exibidos em tempo real.  
-- Capture telas e salve na pasta `/images`.  
+- Analise os resultados exibidos em tempo real.    
 - Use esses recursos para:  
   - Monitoramento de feedback de clientes;  
   - Análise de reviews em escala;  
